@@ -1,6 +1,6 @@
 # Bcrypt-Hash-Component
 
-![Downloads](https://img.shields.io/npm/dt/bcrypt-hash-component?style=flat-square) ![MIT License](https://img.shields.io/github/license/Thiradus/bcrypt-hash-component?style=flat-square) [![Depfu](https://badges.depfu.com/badges/20285344da99d629b259c64b9591d1cd/overview.svg)]()
+![Downloads](https://img.shields.io/npm/dt/bcrypt-hash-component?style=flat-square) ![MIT License](https://img.shields.io/github/license/Thiradus/bcrypt-hash-component?style=flat-square) [![Depfu](https://badges.depfu.com/badges/369e44080263788a87255d681ab010db/overview.svg)](https://depfu.com/github/Thiradus/Bcrypt-Hash-Component?project_id=11421)
 
 ## Overview
 
