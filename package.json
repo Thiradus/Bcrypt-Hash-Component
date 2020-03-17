@@ -1,0 +1,34 @@
+{
+	"name": "bcrypt-hash-component.",
+	"description": "A npm package that generates and validates Bcrypt hashes. ",
+	"version": "0.1.0",
+	"keywords": [
+		"bcrypt",
+		"hash",
+		"javascript"
+	],
+	"maintainers": [{
+		"name": "TheBillyIsMe",
+		"email": "54307189+TheBillyIsMe@users.noreply.github.com",
+		"web": "https://github.com/TheBillyIsMe/"
+	}],
+	"bugs": {
+		"web": "https://github.com/Thiradus/Bcrypt-Hash-Component/issues"
+	},
+	"licenses": [{
+		"name": "MIT",
+		"url": "https://github.com/Thiradus/Bcrypt-Hash-Component/blob/master/LICENSE.md"
+	}],
+	"homepage": "https://github.com/Thiradus/Bcrypt-Hash-Component",
+	"devDependencies": {
+		"eslint": "^6.8.0",
+		"eslint-plugin-html": "^6.0.0",
+		"eslint-plugin-import": "^2.20.1",
+		"eslint-plugin-node": "^11.0.0",
+		"eslint-plugin-promise": "^4.2.1",
+		"eslint-plugin-standard": "^4.0.1"
+	},
+	"dependencies": {
+		"bcrypt": "^4.0.1"
+	}
+}
