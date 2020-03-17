@@ -1,5 +1,5 @@
 {
-	"name": "bcrypt-hash-component.",
+	"name": "bcrypt-hash-component",
 	"description": "A npm package that generates and validates Bcrypt hashes. ",
 	"version": "0.1.0",
 	"keywords": [
