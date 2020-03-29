@@ -7,11 +7,13 @@
 		"hash",
 		"javascript"
 	],
-	"maintainers": [{
-		"name": "TheBillyIsMe",
-		"email": "54307189+TheBillyIsMe@users.noreply.github.com",
-		"web": "https://github.com/TheBillyIsMe/"
-	}],
+	"maintainers": [
+		{
+			"name": "TheBillyIsMe",
+			"email": "54307189+TheBillyIsMe@users.noreply.github.com",
+			"web": "https://github.com/TheBillyIsMe/"
+		}
+	],
 	"bugs": {
 		"web": "https://github.com/Thiradus/Bcrypt-Hash-Component/issues"
 	},
@@ -21,7 +23,7 @@
 		"eslint": "^6.8.0",
 		"eslint-plugin-html": "^6.0.0",
 		"eslint-plugin-import": "^2.20.1",
-		"eslint-plugin-node": "^11.0.0",
+		"eslint-plugin-node": "^11.1.0",
 		"eslint-plugin-promise": "^4.2.1",
 		"eslint-plugin-standard": "^4.0.1"
 	},
