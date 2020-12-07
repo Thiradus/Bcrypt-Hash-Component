@@ -1,18 +1,15 @@
 {
 	"name": "bcrypt-hash-component",
+	"version": "1.1.0",
 	"description": "An easy-to-use module that generates and validates Bcrypt hashes.",
-	"version": "1.0.0",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Thiradus/thiradus-backend.git"
+	},
 	"keywords": [
 		"bcrypt",
 		"hash",
 		"javascript"
-	],
-	"maintainers": [
-		{
-			"name": "TheBillyIsMe",
-			"email": "54307189+TheBillyIsMe@users.noreply.github.com",
-			"web": "https://github.com/TheBillyIsMe/"
-		}
 	],
 	"bugs": {
 		"web": "https://github.com/Thiradus/Bcrypt-Hash-Component/issues"
