@@ -4,7 +4,7 @@
 	"description": "An easy-to-use module that generates and validates Bcrypt hashes.",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Thiradus/thiradus-backend.git"
+		"url": "git+https://github.com/Thiradus/Bcrypt-Hash-Component.git"
 	},
 	"keywords": [
 		"bcrypt",
